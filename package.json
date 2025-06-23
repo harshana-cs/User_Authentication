@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/harshana-cs/User_Authentication#readme",
   "dependencies": {
+    "bcryptjs": "^3.0.2",
     "express": "^5.1.0"
   }
 }
